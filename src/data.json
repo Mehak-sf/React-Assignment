@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "firstName": "Mehak",
+    "middleName": "-",
+    "lastName": "Gupta",
+    "address": "Ludhiana",
+    "phoneNumber": "9887675640",
+    "email": "mehak@gmail.com",
+    "role": "Admin"
+  },
+  {
+    "id": 2,
+    "firstName": "Raghav",
+    "middleName": "Suneet",
+    "lastName": "Bansal",
+    "address": "Chandigarh",
+    "phoneNumber": "8876789656",
+    "email": "raghav@gmail.com",
+    "role": "Subscriber"
+    },
+  {
+    "id": 3,
+    "firstName": "Sakshi",
+    "middleName": "-",
+    "lastName": "Garg",
+    "address": "Mohali",
+    "phoneNumber": "7658890456",
+    "email": "sakshi@gmail.com",
+    "role": "Superadmin"
+  },
+  {
+    "id": 4,
+    "firstName": "Khushi",
+    "middleName": "-",
+    "lastName": "Gupta",
+    "address": "Chandigarh",
+    "phoneNumber": "9887675640",
+    "email": "khushi@gmail.com",
+    "role": "Subscriber"
+  },
+  {
+    "id": 5,
+    "firstName": "Janvi",
+    "middleName": "Gupta",
+    "lastName": "Jindal",
+    "address": "Ludhiana",
+    "phoneNumber": "9887675640",
+    "email": "janvi@gmail.com",
+    "role": "Admin"
+  }
+]
